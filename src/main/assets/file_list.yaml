@@ -1,0 +1,51 @@
+
+hostname: http://130.216.216.90
+port: 8080
+username: admin
+password: openglfarm
+cloudDir: results_final_test_snake
+invalidFile: invalids_new
+
+
+
+
+files:
+  Action:
+
+  Adventure:
+    - /com.artifexmundi.mopa1.gp.1.pat
+    - /com.loadcomplete.slimeidle.2.pat
+
+  Board:
+    - /and.lihuhu.tiletriple3d.1.pat
+    - /coloring.color.number.happy.paint.art.drawing.puzzle.1.pat
+    - /com.alpg.bingo.1.pat
+    - /com.Bingo.MatchGame.1.pat.zip
+    - /com.chess.1.pat
+    - /com.iceors.colorbook.release.6.pat
+    - /com.jellybtn.boardkings.1.pat
+    - /com.playvalve.yatzy.1.pat
+    - /com.scopely.monopolygo.1.pat
+    - /solitaire.arcadegames.freecard.solitaireplus.epic.klodike.1.pat
+
+  Casual:
+    - /air.com.hypah.io.slither.2.pat
+    - /air.com.lunime.gachalife2.1.pat
+    - /com.bubadu.bubbu.1.pat
+    - /com.hemzstudios.slimemerge.3.pat
+    - /com.hyperdivestudio.papersgradeplease.3.pat
+    - /com.king.candycrushsaga.1.pat
+    - /com.pjmasks.powerheroes.1.pat
+    - /com.Polystation.BuildABabe.1.pat
+    - /com.pronetis.ironball2.2.pat
+    - /com.santa.prankcall.funny.christmas.2.pat
+
+  others:
+    - /com.innersloth.spacemafia.2.pat
+    - /com.loadcomplete.slimeidle.2.pat
+    - /com.playgendary.bowmasters.1.pat
+
+  Puzzle:
+    - /clear.tap.geometrydash.puzzle.away.clash.block.games.1.pat
+    - /com.block.juggle.1.pat
+    - /com.tangle.nuts.bolts.1.pat
